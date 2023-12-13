@@ -1,5 +1,5 @@
-import { CreditCardDirective } from "./directives/CreditCardDirective";
-import { PhoneNumberDirective } from "./directives/PhoneNumberDirective";
+import { CreditCardDirective } from "./directives/credit-card.directive";
+import { PhoneNumberDirective } from "./directives/phone-number.directive";
 
 /**
  * La liste des directives que le Framework devra connaître et
